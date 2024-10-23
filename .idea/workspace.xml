@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e96766-1867-498e-81a9-a3c6bdd15410" name="Changes" comment="" />
+    <list default="true" id="41e96766-1867-498e-81a9-a3c6bdd15410" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,16 +30,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="feature/product" />
+                    <option name="lastUsedInstant" value="1729689688" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="main" />
                     <option name="lastUsedInstant" value="1729685446" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="feature/about" />
-                    <option name="lastUsedInstant" value="1729685342" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="feature/navigation" />
-                    <option name="lastUsedInstant" value="1729684836" />
                   </RecentBranch>
                 </list>
               </option>
@@ -65,7 +63,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature/product",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/dev/workspace/Git_Final_Test/gitpage",
     "node.js.detected.package.eslint": "true",
@@ -97,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729675309339</updated>
-      <workItem from="1729675310436" duration="4308000" />
+      <workItem from="1729675310436" duration="4925000" />
     </task>
     <servers />
   </component>
